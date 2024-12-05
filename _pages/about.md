@@ -22,7 +22,6 @@ I am a first-year PhD candidate in the Department of Computer Science at Hong Ko
   
 
 
-<span class='anchor' id='-xl'></span>
 
 # Research Interests
 
@@ -30,12 +29,11 @@ I am a first-year PhD candidate in the Department of Computer Science at Hong Ko
 
 
 
-<span class='anchor' id='-ryjx'></span>
 
 # Honors and Awards
  
 
-<span class='anchor' id='-xshy'></span>
+
 
 # Hobbies
 
