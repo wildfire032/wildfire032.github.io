@@ -25,16 +25,17 @@ I am a first-year PhD candidate in the Department of Computer Science at Hong Ko
 
 # Research Interests
 
- 
+ My current research interests are in graph theory, including graph algorithms, graph data mining, and so on. Please feel free to contact me if you would like to discuss with me further!
 
 
 
 
 # Honors and Awards
  
-
+* **National Scholarship**, JNU, 2022-2023
+* **Golden award**, 48th International Collegiate Programming Contest(ICPC) Asia Hangzhou Regional Contest, 2023
 
 
 # Hobbies
-
+* Go(chess), [Puzzle hunt](https://en.wikipedia.org/wiki/Puzzle_hunt)
 
