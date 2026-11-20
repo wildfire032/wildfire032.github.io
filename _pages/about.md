@@ -30,12 +30,12 @@ I am a first-year PhD candidate in the Department of Computer Science at Hong Ko
 
 # Publications
 
-* **[SIGMOD'26]** A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs
-Zitan Sun, **Zihan Jia**, Hong Cheng, Xin Huang, Jeffrey Xu Yu
+* **[SIGMOD'26]** A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs\\
+Zitan Sun, **Zihan Jia**, Hong Cheng, Xin Huang, Jeffrey Xu Yu\\
 ACM SIGMOD International Conference on Management of Data
 
-* **[ICDE'25]** Efficient Core Propagation based Hierarchical Graph Clustering
-Jinbin Huang, **Zihan Jia**, Xin Huang
+* **[ICDE'25]** Efficient Core Propagation based Hierarchical Graph Clustering\\
+Jinbin Huang, **Zihan Jia**, Xin Huang\\
 IEEE International Conference on Data Engineering
 
 # Honors and Awards
