@@ -28,14 +28,23 @@ I am a first-year PhD candidate in the Department of Computer Science at Hong Ko
  My current research interests are in graph theory, including graph algorithms, graph data mining, and so on. Please feel free to contact me if you would like to discuss with me further!
 
 
+# Publications
 
+* **[SIGMOD'26]** A Unified Framework for Dense Subgraph Maintenance over Dynamic Bipartite Graphs
+Zitan Sun, **Zihan Jia**, Hong Cheng, Xin Huang, Jeffrey Xu Yu
+ACM SIGMOD International Conference on Management of Data
+
+* **[ICDE'25]** Efficient Core Propagation based Hierarchical Graph Clustering
+Jinbin Huang, **Zihan Jia**, Xin Huang
+IEEE International Conference on Data Engineering
 
 # Honors and Awards
- 
-* **National Scholarship**, JNU, 2022-2023
-* **Golden award**, 48th International Collegiate Programming Contest(ICPC) Asia Hangzhou Regional Contest, 2023
+
+* **SIGMOD Travel Award**, 2026.
+* **National Scholarship**, JNU, 2022-2023.
+* **Golden award**, 48th International Collegiate Programming Contest(ICPC) Asia Hangzhou Regional Contest, 2023.
 
 
 # Hobbies
-* Go(chess), [Puzzle hunt](https://en.wikipedia.org/wiki/Puzzle_hunt)
+* [Puzzle hunt](https://en.wikipedia.org/wiki/Puzzle_hunt)
 
